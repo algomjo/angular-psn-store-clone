@@ -5,3 +5,8 @@
     border: 0;
     box-sizing: border-box;
 }
+
+body {
+    background: rgb(0,255,248);
+    background: linear-gradient(90deg, rgba(0,255,248,1) 6%, rgba(16,0,36,1) 48%, rgba(9,9,121,1) 86%);
+}
